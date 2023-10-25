@@ -10,4 +10,4 @@ beautifulsoup4~=4.12.2
 matplotlib
 google-search-results
 python_weather
-
+openai
