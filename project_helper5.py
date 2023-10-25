@@ -449,7 +449,7 @@ def main():
         st.image("harvesting.png", caption="Harvesting Crops", use_column_width=True)
     elif app_mode == "Question Answering":
 
-        os.environ['OPENAI_API_KEY'] = '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'  # Set the OpenAI API Key
+        os.environ['OPENAI_API_KEY'] = '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'  # Set the OpenAI API Key
 
         st.markdown("## Question Answering")
 
