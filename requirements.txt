@@ -9,5 +9,5 @@ langchain~=0.0.302
 beautifulsoup4~=4.12.2
 matplotlib
 google-search-results
-
+python_weather
 
